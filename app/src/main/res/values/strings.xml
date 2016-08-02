@@ -48,6 +48,14 @@
     <!-- Humidity format CHAR LIMIT=25]-->
     <string name="format_humidity">Humidity: <xliff:g id="humidity">%1.0f</xliff:g> %%</string>
 
+    <string name="no_connection">No Data to display</string>
+    <string name="no_connection_no_internet">No Data to display. No Internet connection.</string>
+    <string name="server_down">Server is down</string>
+    <string name="server_invalid">Invalid data from server</string>
+    <string name="location_invalid">Invalid map location</string>
+
+    <string name="pre_loc_status_key">loc-status</string>
+
     <string-array name="units">
         <item>Metric</item>
         <item>Imperial</item>
