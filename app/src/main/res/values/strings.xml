@@ -60,6 +60,8 @@
     <string name="server_invalid">Invalid data from server</string>
     <string name="location_invalid">Invalid map location</string>
 
+    <string name="title_widget_today">sunshine widget</string>
+
     <string name="pre_loc_status_key">loc-status</string>
 
     <string-array name="units">
